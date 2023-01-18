@@ -27,6 +27,10 @@ body {
     color: rgba(255, 255, 255,0.848);
 }
 
+.nav-item {
+    margin: 0px 10px;
+} 
+
 .nav-item .nav-link {
     color: rgba(255, 255, 255,0.92);
     font-size: 14px;
